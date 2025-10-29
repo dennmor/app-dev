@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-# Favorite series of Denise
+# Favorite series/movies of Denise
 ### My favorite series
 ***
 1. The First Frost
